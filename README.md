@@ -1,2 +1,0 @@
-# idgg
-public cdn 
